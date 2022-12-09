@@ -3,10 +3,6 @@
  * Demonstrate Async nature of JavaScript
     - Note: It is similar to Main thread invoking another Activity which are processed by child Thread.
     - Run the JS code using Node Compiler
-
-
-
-    
 ********************************************************************************************************/
 
 function showTime() {
